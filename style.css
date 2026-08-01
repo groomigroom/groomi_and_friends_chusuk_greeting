@@ -1,7 +1,15 @@
+@font-face {
+    font-family: 'GeuriunXGukhanbakEqual';
+    src: url('https://cdn.jsdelivr.net/gh/Project-Noonnu/2607161334@x-9/x/GriunXHangeul_Equal-Rg.woff2') format('woff2');
+    font-weight: 400;
+    font-display: swap;
+}
+
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'GeuriunXGukhanbakEqual';
 }
 
 .full {
