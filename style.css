@@ -63,3 +63,9 @@ header {
 .real_animal.on {
     top: -250px;
 }
+
+.real_animal>img {
+    width: 100%;
+    position: absolute;
+    bottom: 0px;
+}
